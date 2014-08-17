@@ -1,0 +1,12 @@
+# Site settings
+title: gbouquet's Page
+email: gaetan@gbouquet.com
+description: > # this means to ignore newlines until "baseurl:"
+  gbouquet's GitHub Page
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gbouquet.github.io" # the base hostname & protocol for your site
+twitter_username: gbouquet
+github_username:  gbouquet
+
+# Build settings
+markdown: kramdown
